@@ -1,0 +1,8 @@
+Version control ur project using git
+1. Food.txt-> 5 food items -> save the version of this file in local repo
+2. change the first food item -> save this version as well in  LR
+3. check the diff btw two version (LR)
+4. add two more items to food.txt
+5. add it to staging area
+6. check the diff btw staging and the last commit
+
